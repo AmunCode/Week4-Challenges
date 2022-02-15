@@ -23,4 +23,8 @@
 19. Write code that will allow a user to input the values of A,B,C,D. return the value of (A / B * C) - D.
 20. Write code that will take in a number and return if the number is odd or even.
 21. write code that will take in a number and return if the number is a prime number (my fav)! 
+22. write code that will the user to set an max number. The return all the odd numbers up the the user max number. 
+23. write code that will hold the alphabet in a list, then print every 3rd letter in the alphabet. 
+24. Do number 23 a different way!
+25. write code that will hold the alphabet in a list, then shift each letter by a user defined amount, then print the shifted list. 
 
